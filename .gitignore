@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+geo-backend/node_modules/
+
+# Env
+geo-backend/.env
+
+# Editor
+.vscode/
+.DS_Store
